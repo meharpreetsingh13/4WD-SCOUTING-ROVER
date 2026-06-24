@@ -5,11 +5,11 @@ ROS2 Humble | Gazebo Fortress | Python 3.10 | WSL2 + WSLg
 
 ## Problem Statement
 
-Post-earthquake urban environments present collapsed structures, narrow passages, and unstable terrain that are too dangerous for immediate human entry. Rescue teams require prior knowledge of the environment before deployment.
+Collapsed buildings, tight spaces, and shaky ground make post-earthquake urban surroundings too hazardous for people to enter right away. Prior to deployment, rescue crews must be familiar with the surroundings.
 
 ## Solution
 
-A simulated 4WD skid-steer rover that autonomously navigates disaster terrain and builds a real-time 2D occupancy map using SLAM, enabling rescue teams to assess the environment remotely before physical entry.
+Using SLAM, a simulated 4WD skid-steer rover can autonomously negotiate catastrophe terrain and create a real-time 2D occupancy map, allowing rescue crews to evaluate the environment from a distance before to physical entry.
 
 ---
 
